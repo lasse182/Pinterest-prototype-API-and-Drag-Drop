@@ -1,0 +1,1 @@
+{"author":"Ian Bellomy","dependencies":[],"description":"Basic drag and drop and frame-based contact events.","example":"example.coffee","github":"https://github.com/IanBellomy/Pair","install":"Pair.coffee","installed_count":19,"name":"Pair","require":"PairModule = require 'Pair'","unique_name":"pair"}
